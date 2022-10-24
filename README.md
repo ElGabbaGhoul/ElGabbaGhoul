@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElGabbaGhoul aka Scooter aka Marble. My pronouns are they/them. 
 - 👀 I’m interested in gaming, cooking, learning new things, languages, and animals. 
-- 🌱 I’m currently learning the basics of coding through the Odin community. I'm also refining my German skills and trying to learn Japanese!
+- 🌱 I’m currently enrolled in a hack reactor 19 week program for fullstack development.
 - 💞️ I’m looking to collaborate on anything where my skills can be put to use, I want to meet cool, genuine people in the coding world! 
 - 📫 I can be reached through twitter, @ElGabbaGhoul
 
